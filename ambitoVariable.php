@@ -15,4 +15,11 @@ function Suma()
 Suma();
 echo $c;
 ?>
-
+<?php
+function test()
+{
+    $a = 2;
+    echo $a;
+    $a++;
+}
+?>

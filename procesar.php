@@ -12,3 +12,5 @@ if(!empty($_POST["name"])){
 }else{
     echo "El formulario esta vacio";
 }
+
+
